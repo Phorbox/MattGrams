@@ -1,11 +1,16 @@
-#ifndef   CALCULATOR_H
-#define   CALCULATOR_H
+#ifndef   POINT_H
+#define   POINT_H
 
+typedef struct coords_struct
+{
+	double x;
+	double y;
 
-void calcAdd(double *running, double operating);
-void calcSubtract(double *running, double operating);
-double calcMultiply(double running, double operating);
-double calcDivide(double running, double operating);
-void calculator();
+} coords;
+
+void makeCoordinate(int n, coords* coordArry);
+void calcDistance(int n , coords* coordArry);
+void calcMidPoint(int n , coords* coordArry);
+
 
 #endif
