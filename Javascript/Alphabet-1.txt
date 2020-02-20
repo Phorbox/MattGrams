@@ -1,0 +1,24 @@
+var z = prompt('Number please!');
+var y = Number(z);
+y--;
+
+if(y<0){y=0
+}
+
+var grammArray = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+
+var x = 0;
+
+while (y < grammArray.length){
+    alert(grammArray[y]);
+    y++;
+    x++;
+
+
+}
+
+if(y == grammArray.length){
+    alert(grammArray.length)
+
+}
+alert("Times looped :" + x)
