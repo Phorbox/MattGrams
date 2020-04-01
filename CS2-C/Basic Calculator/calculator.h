@@ -1,6 +1,5 @@
-#ifndef   CALCULATOR_H
-#define   CALCULATOR_H
-
+#ifndef CALCULATOR_H
+#define CALCULATOR_H
 
 void calcAdd(double *running, double operating);
 void calcSubtract(double *running, double operating);

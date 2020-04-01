@@ -1,81 +1,39 @@
 #include <stdio.h>
 
-/*This adds a value to the running total.
- *Parameter:
- * *running is a pointer to the current total
- * operating is value to be added. 
- *
- *Return:
- * No return, the running total is change directly
- */
-
+//Adds a value to the running total
 void calcAdd(double *running, double operating)
 {
     *running += operating;
 }
 
-/*This subtracts a value from the running total.
- *Parameter:
- * *running is a pointer to the current total
- * operating is value to be added. 
- *
- *Return:
- * No return, the running total is change directly
- */
-
+//Subracts a value from the running total
 void calcSubtract(double *running, double operating)
-{    
+{
     *running -= operating;
 }
 
-/*This multiplies a value with the running total.
- *Parameter:
- * running is the current total
- * operating is value to be added. 
- *
- *Return:
- * returns the new value for running
- */
-
+//Multiplies a value with the running total
 double calcMultiply(double running, double operating)
 {
-     
     running *= operating;
     return running;
 }
 
-/*This divides a value from the running total.
- *Parameter:
- * running is the current total
- * operating is value to be added. 
- *
- *Return:
- * returns the new value for running
- */
-
+//Divides a value from the running total
 double calcDivide(double running, double operating)
 {
-     
     running /= operating;
     return running;
 }
 
-
-/*This function houses the main ability of the program.
- *Parameter:
- * no parameters. 
- *
- *Return:
- * no return, but does output text during operation.
- */
-
+//Main Calculator Function
 void calculator()
 {
     int looping = 1;
     int choosing = 5;
     double running = 0;
     double operating = 0;
-   
+
     while (looping == 1)
     {
         //Gets a valid operator from user.
@@ -96,7 +54,7 @@ void calculator()
                 calcAdd(&running, operating);
                 break;
             case 2: //subtract
-		calcSubtract(&running, operating);
+                calcSubtract(&running, operating);
                 break;
             case 3: //multiply
                 running = calcMultiply(running, operating);

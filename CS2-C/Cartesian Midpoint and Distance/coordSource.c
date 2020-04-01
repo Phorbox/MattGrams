@@ -12,16 +12,12 @@
 
 int main(int argc, char *argv[])
 {
-	int n = 2;
-    coords* cPtr;    
-    cPtr = (coords*)malloc(n * sizeof(coords));
+    int n = 2;
+    coords *cPtr;
+    cPtr = (coords *)malloc(n * sizeof(coords));
     makeCoordinate(n, cPtr);
-    calcDistance(n , cPtr);
-    calcMidPoint(n , cPtr);
+    calcDistance(n, cPtr);
+    calcMidPoint(n, cPtr);
 
-
-
-
-
-	return 0;
+    return 0;
 }
