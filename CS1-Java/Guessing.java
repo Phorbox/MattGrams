@@ -14,7 +14,6 @@ public class Guessing {
       public static void main(String[] args)
       {
          Scanner console = new Scanner(System.in);
-         Graphics g = panel.getGraphics();
          int gameRE = 0;
          
          ruleOfLaw();
