@@ -9,7 +9,7 @@ typedef struct Route_struct
     char destination[3];
     char id[2];
     int passengers;
-} Route;
+} routeRecord;
 
 // checkFileOpening returns -1 if inFile opened improperly, and 0 otherwise
 int checkFileOpening(FILE *inFile)
@@ -45,7 +45,7 @@ int getFileLength(char *fileName)
 }
 
 // Route returns an array of Routes from fileName and its length
-Route *getFileContent(char *fileName, int length)
+routeRecord *getFileContent(char *fileName, int length)
 {
     FILE *inFile = fopen(fileName, "r");
 
@@ -53,7 +53,7 @@ Route *getFileContent(char *fileName, int length)
 
     int i = 0;
     char buffer[1000];
-    Route *flights = (Route *)malloc(sizeof(Route) * length);
+    routeRecord *flights = (routeRecord *)malloc(sizeof(routeRecord) * length);
 
     //Temporary Variables
     char origin[3];
@@ -84,7 +84,7 @@ Route *getFileContent(char *fileName, int length)
 }
 
 // getFlightPassengers creates a file with the sum of passengers in it from flights, its length, the outputFileName, and the routeName    
-void getFlightPassengers(Route *flights, int length, char *outputFileName, char *routeName)
+void getFlightPassengers(routeRecord *flights, int length, char *outputFileName, char *routeName)
 {
     int i;
     int totalPassengers = 0;
