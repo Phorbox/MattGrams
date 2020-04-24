@@ -16,3 +16,6 @@ vendor/
 
 # VSCode launch profiles
 *.vscode
+
+# Homework Submissions
+*.zip
