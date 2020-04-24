@@ -29,5 +29,6 @@ int findAirlineRoute(RouteRecord *flights, int flightsLength, char *origin, char
 SearchType getMenuOption();
 int createRecordsTest(FILE *inputFile);
 RouteRecord* fillRecordsTest(RouteRecord *flights, FILE *inputFile);
+void stringUpper(char *lowered);
 
 #endif

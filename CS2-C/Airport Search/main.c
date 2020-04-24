@@ -18,44 +18,30 @@
 int main(int argc, char *argv[])
 {
     char inputName[20];
-    strcpy(inputName,argv[1]);
+    strcpy(inputName, argv[1]);
+
     FILE *inputFile;
-    inputFile = fopen(inputName,"r");
+    printf("Opening passenger-data.csv... \n");
+    inputFile = fopen(inputName, "r");
     checkFileOpening(inputFile);
 
     RouteRecord *flights;
     flights = createRecords(inputFile);
-    // int fileLength = createRecordsTest(inputFile);
-    // flights = (RouteRecord *)malloc(sizeof(RouteRecord) * fileLength);
-    
+
     int flightsLength;
-    flightsLength = fillRecords(flights,inputFile);
+    flightsLength = fillRecords(flights, inputFile);
+
     int i;
-     for (i = 0; i < flightsLength; i++)
-    {
-    printf("%d|",i);
-    printf("%s|",(*flights).origin);
-    printf("%s|",(*flights).destination);
-    printf("%s\n",(*flights).airline);
-    flights++;
-    }
-    char key1[4];
-    char key2[4];
+    char key1[5];
+    char key2[5];
     SearchType searchKind = 0;
-    while (searchKind != 5) {
-        searchKind = getMenuOption(key1,key2);
-        for (i = 0; i < strlen(key1); i++)
-        {
-            key1[i] = toupper(key1[i]);
-        }
-        for (i = 0; i < strlen(key2); i++)
-        {
-            key2[i] = toupper(key2[i]);
-        }
-
-        searchRecords(flights,flightsLength,key1,key2,searchKind);
+    while (searchKind != 5)
+    {
+        searchKind = getMenuOption(key1, key2);
+        stringUpper(key1);
+        stringUpper(key2);
+        searchRecords(flights, flightsLength, key1, key2, searchKind);
     }
-
 
     return 0;
 }
