@@ -1,0 +1,16 @@
+Student Transcript for John Doe, jkl567, @99029832
+The password is canterbury987
+@990298320
+jkl567
+b-
+ab-
+Semester Fall 2020
+CS3424 Systems Programming B+
+CS3733 Operating Systems C-
+CS4853 Adv. Systems Programming D
+MAT1013 Calculus I B-
+Semester grade point average: 2.18
+
+X Academic probation active
+XX Academic holds: 3
+1232345

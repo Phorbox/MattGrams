@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="500.0" spacing="10.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.MainController">
+   <children>
+      <VBox prefHeight="150.0" prefWidth="500.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="TOP" prefHeight="20.0" prefWidth="500.0" text="Disney Movies 2019" textFill="#8e43f8">
+               <font>
+                  <Font name="Calibri" size="45.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" contentDisplay="TOP" prefHeight="20.0" prefWidth="500.0" text="Enter a movie name to view cast info.">
+               <font>
+                  <Font name="Arial" size="20.0" />
+               </font>
+            </Label>
+            <TextField fx:id="searchField" alignment="CENTER" promptText="For example: Toy">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </TextField>
+            <Button fx:id="showField" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#activateSearch" prefWidth="200.0" text="Show" translateX="150.0" />
+         </children>
+      </VBox>
+      <ScrollPane prefHeight="650.0" prefWidth="500.0">
+         <content>
+            <Text fx:id="searchResults" boundsType="LOGICAL_VERTICAL_CENTER" strokeType="OUTSIDE" strokeWidth="0.0" textOrigin="TOP" wrappingWidth="587.0" />
+         </content>
+      </ScrollPane>
+   </children>
+</VBox>

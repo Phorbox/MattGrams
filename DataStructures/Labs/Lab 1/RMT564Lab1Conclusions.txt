@@ -1,0 +1,7 @@
+Matthew Henderson
+
+In reversing the bible, I have found the iterative function to be preferable to the recursive one. 
+To the point where my recursive function in its current state could not reverse it without a line 
+buffer of only 200 or dramatically reducing the length of the bible.  Unless I made one change or 
+the other I would get a segmentation fault.  The Iterative function seemed to have a negligible 
+time to complete while the recursive one managed to have time. 

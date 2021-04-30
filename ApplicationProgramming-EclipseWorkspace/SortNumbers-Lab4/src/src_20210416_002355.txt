@@ -1,0 +1,4 @@
+WARNING - 00:23:55: First conversion pass
+WARNING - 00:23:55: Second pass : generating package usages
+WARNING - 00:23:55: Saving uml file /resource/rmt564-Lab04/src/src.uml
+WARNING - 00:23:55: Uml file /resource/rmt564-Lab04/src/src.uml saved

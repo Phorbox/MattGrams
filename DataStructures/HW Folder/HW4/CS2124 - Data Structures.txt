@@ -1,0 +1,66 @@
+CS2124 - Data Structures 
+Fall 2020 
+HW4 Linked List (10%) 
+Name ____________abc123_______ 
+Description 
+Suppose we define a linked list of int using the following struct. 
+/* 
+* struct for a single node in a linked list. info contains the data 
+* stored in this node. next contains a pointer to the node with 
+* the next piece of data. m
+*/
+ 
+typedef struct LLNode{ 
+    int info; //int in the linked list node struct 
+    LLNode *next; //next node in linked list 
+ } LLNode; 
+     
+Write a function insertNode which inserts the given value into a new LLNode 
+at the head of the given linked list. Updates the head of the linked list using 
+a double pointer. Example call to insert 10 at the head of the linked list: 
+     
+insertNode( &pHead, 10 );
+
+insertNode( &pHead, 10 ){
+
+    
+}
+
+
+
+
+
+
+Complete the function below.
+
+void insertNode(LLNode **ppHead, int x){ 
+
+} 
+What is the runtime of your function? 
+
+What would the runtime of this function be if we were inserting at the front of an array? 
+
+Write the recursive function deleteNode which deletes the first node in the 
+linked list whose member variable info equals x. Outline of the function: 
+
+    (1) If Head is NULL return NULL. 
+    (2) Else, if the member variable info of the node pointed to by Head equals x, 
+deleteNode deletes the node pointed to by Headm 
+and returns a pointer to the next node in the linked list. 
+    (3) Else, it should recursively call deleteNode on the next node in the linked 
+list. It sets Head’s next to the pointer returned by this recursive call. It then 
+returns Head. 
+    
+node* deleteNode(LLNode *pHead, int x){ 
+    node *ptr; 
+    if(pHead == NULL){ 
+
+    } else if (pHead->info==x){ 
+
+    } else{ 
+
+    } 
+} 
+What is the runtime of your function (consider both the best case and worst case)? 
+
+What would the runtime of this function be if we were deleting an element from an array?
