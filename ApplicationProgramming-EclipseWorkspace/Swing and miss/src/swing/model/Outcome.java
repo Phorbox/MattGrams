@@ -7,9 +7,9 @@ public class Outcome {
 	String Name;
 	int value;
 
-	public Outcome(String name, int value) {
-		this.Name = name;
-		this.value = value;
+	public Outcome(String newName, int newValue) {
+		Name = newName;
+		value = newValue;
 	}
 	
 }

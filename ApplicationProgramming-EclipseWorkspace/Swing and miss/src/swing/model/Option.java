@@ -7,29 +7,52 @@ public class Option {
 
 	public Option(String playerName) {
 		super();
-		this.PlayerName = playerName;
-		this.choices = new Choice[3];
+		PlayerName = playerName;
+		choices = new Choice[3];
 	}
 
 	public void genBatterOption() {
 		// TODO Auto-generated method stub
-		this.genRockPaperScissors();
-		
+		genRockPaperScissors();
+		genBatterOutcome();
+
+	}
+
+	private void genBatterOutcome() {
+		choices[0].genBatterRock();
+		choices[1].genBatterPaper();
+		choices[2].genBatterScissors();
 
 	}
 
 	public void genPitcherOption() {
 		// TODO Auto-generated method stub
-		this.genRockPaperScissors();
+		genRockPaperScissors();
 
 	}
 
 	public void genRockPaperScissors() {
 		// TODO Auto-generated method stub
-		this.choices[0] = new Choice("rock", "scissors", "paper");
-		this.choices[1] = new Choice("paper", "rock", "scissors");
-		this.choices[2] = new Choice("scissors", "paper", "rock");
+		choices[0] = new Choice("rock", "scissors", "paper");
+		choices[1] = new Choice("paper", "rock", "scissors");
+		choices[2] = new Choice("scissors", "paper", "rock");
 
+	}
+
+	public void printOptions() {
+		int i = 0;
+		while (printTest(i)) {
+			// implement button update
+			System.out.println(choices[i]);
+		}
+
+	}
+
+	private boolean printTest(int i) {
+		if (i < 3) {
+			return true;
+		}
+		return false;
 	}
 
 }
