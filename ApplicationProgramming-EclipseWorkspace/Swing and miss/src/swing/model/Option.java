@@ -14,6 +14,7 @@ public class Option {
 	public void genBatterOption() {
 		// TODO Auto-generated method stub
 		this.genRockPaperScissors();
+		
 
 	}
 
