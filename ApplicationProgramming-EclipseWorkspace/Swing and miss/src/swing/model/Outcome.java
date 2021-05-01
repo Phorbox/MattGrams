@@ -1,9 +1,8 @@
 
-
 package swing.model;
 
 public class Outcome {
-	//Ex: 1 Base, 2 Base, 1 Ball, 1 Strike, 1 Foul
+	// Ex: 1 Base, 2 Base, 1 Ball, 1 Strike, 1 Foul
 	String Name;
 	int value;
 
@@ -11,5 +10,10 @@ public class Outcome {
 		Name = newName;
 		value = newValue;
 	}
-	
+
+	public void printOutcome() {
+		System.out.println(Name);
+		System.out.println(value);
+	}
+
 }

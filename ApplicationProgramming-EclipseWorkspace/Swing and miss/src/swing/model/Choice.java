@@ -9,9 +9,9 @@ public class Choice {
 	String Beats;
 	String Loses;
 	// all game play decisions are made in terms of the batter;
-	private ArrayList<Outcome> resultBeats;
-	private ArrayList<Outcome> resultTies;
-	private ArrayList<Outcome> resultLoses;
+	public ArrayList<Outcome> resultBeats;
+	public ArrayList<Outcome> resultTies;
+	public ArrayList<Outcome> resultLoses;
 
 	public Choice(String newName, String newBeats, String newLoses) {
 		Name = newName;
@@ -57,50 +57,49 @@ public class Choice {
 		resultLoses.add(tempResult);
 	}
 
-	public Outcome compareChoice(String pitcherChosenName) {
-		if (testBeats(pitcherChosenName)) {
+	public Outcome compareChoice(Choice pitcherChosenName) {
+		if (testBeats(pitcherChosenName.Name)) {
 			return randOutcome(resultBeats);
 		}
-		if (testTies(pitcherChosenName){
+		if (testTies(pitcherChosenName.Name)) {
 			return randOutcome(resultTies);
 		}
-		if(testLoses(pitcherChosenName){
+		if (testLoses(pitcherChosenName.Name)) {
 			return randOutcome(resultLoses);
 		}
-
-	return null;
-
+		return null;
 	}
 
-	private Outcome randOutcome(ArrayList<Outcome> listOfOutcomes) {
+	public Outcome randOutcome(ArrayList<Outcome> listOfOutcomes) {
 		int size = listOfOutcomes.size();
 		return listOfOutcomes.get(randNum(size));
 	}
-	
+
 	public int randNum(int cases) {
 		Random rand = new Random();
-		return ((rand.nextInt(33*cases)) % (cases-1));
+		if (cases <= 1) {
+			return 0;
+		}
+		return ((rand.nextInt(33 * cases)) % (cases - 1));
 	}
 
 	public boolean testBeats(String pitcherChosenName) {
-		if (Name.equals(pitcherChosenName)) {
-			return true;
-		}
-		return false;
+		return Beats.equals(pitcherChosenName);
 	}
 
 	public boolean testTies(String pitcherChosenName) {
-		if (Name.equals(pitcherChosenName)) {
-			return true;
-		}
-		return false;
+		return Name.equals(pitcherChosenName);
 	}
 
 	public boolean testLoses(String pitcherChosenName) {
-		if (Name.equals(pitcherChosenName)) {
-			return true;
-		}
-		return false;
+		return Loses.equals(pitcherChosenName);
+	}
+
+	public void printChoice() {
+		System.out.println(Name);
+		System.out.println(Beats);
+		System.out.println(Loses);
+		
 	}
 
 }

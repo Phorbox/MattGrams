@@ -2,12 +2,9 @@ package swing.model;
 
 public class Option {
 	// Ex: Batter and Pitcher
-	String PlayerName;
-	Choice[] choices;
+	public Choice[] choices;
 
-	public Option(String playerName) {
-		super();
-		PlayerName = playerName;
+	public Option() {
 		choices = new Choice[3];
 	}
 
@@ -18,7 +15,7 @@ public class Option {
 
 	}
 
-	private void genBatterOutcome() {
+	public void genBatterOutcome() {
 		choices[0].genBatterRock();
 		choices[1].genBatterPaper();
 		choices[2].genBatterScissors();
@@ -48,7 +45,7 @@ public class Option {
 
 	}
 
-	private boolean printTest(int i) {
+	public boolean printTest(int i) {
 		if (i < 3) {
 			return true;
 		}
