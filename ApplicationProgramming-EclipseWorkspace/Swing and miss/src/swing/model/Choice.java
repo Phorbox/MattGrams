@@ -5,18 +5,18 @@ import java.util.Random;
 
 public class Choice {
 
-	String Name;
-	String Beats;
-	String Loses;
+	Rps Name;
+	Rps Beats;
+	Rps Loses;
 	// all game play decisions are made in terms of the batter;
 	public ArrayList<Outcome> resultBeats;
 	public ArrayList<Outcome> resultTies;
 	public ArrayList<Outcome> resultLoses;
 
-	public Choice(String newName, String newBeats, String newLoses) {
-		Name = newName;
-		Beats = newBeats;
-		Loses = newLoses;
+	public Choice(Rps rock, Rps scissors, Rps paper) {
+		Name = rock;
+		Beats = scissors;
+		Loses = paper;
 		resultBeats = new ArrayList<Outcome>();
 		resultTies = new ArrayList<Outcome>();
 		resultLoses = new ArrayList<Outcome>();
@@ -25,11 +25,11 @@ public class Choice {
 	public void genBatterRock() {
 		// ex: fast swing
 		Outcome tempResult;
-		tempResult = new Outcome("Base", 2);
+		tempResult = new Outcome(Umpire.BASE, 2);
 		resultBeats.add(tempResult);
-		tempResult = new Outcome("Foul", 1);
+		tempResult = new Outcome(Umpire.FOUL, 1);
 		resultTies.add(tempResult);
-		tempResult = new Outcome("Strike", 1);
+		tempResult = new Outcome(Umpire.STRIKE, 1);
 		resultLoses.add(tempResult);
 
 	}
@@ -37,11 +37,11 @@ public class Choice {
 	public void genBatterPaper() {
 		// ex: slow swing
 		Outcome tempResult;
-		tempResult = new Outcome("Base", 1);
+		tempResult = new Outcome(Umpire.BASE, 1);
 		resultBeats.add(tempResult);
-		tempResult = new Outcome("Foul", 1);
+		tempResult = new Outcome(Umpire.FOUL, 1);
 		resultTies.add(tempResult);
-		tempResult = new Outcome("Strike", 1);
+		tempResult = new Outcome(Umpire.STRIKE, 1);
 		resultLoses.add(tempResult);
 
 	}
@@ -49,11 +49,11 @@ public class Choice {
 	public void genBatterScissors() {
 		// ex: no swing
 		Outcome tempResult;
-		tempResult = new Outcome("Ball", 1);
+		tempResult = new Outcome(Umpire.BALL, 1);
 		resultBeats.add(tempResult);
-		tempResult = new Outcome("Foul", 1);
+		tempResult = new Outcome(Umpire.FOUL, 1);
 		resultTies.add(tempResult);
-		tempResult = new Outcome("Strike", 1);
+		tempResult = new Outcome(Umpire.STRIKE, 1);
 		resultLoses.add(tempResult);
 	}
 
@@ -83,23 +83,23 @@ public class Choice {
 		return ((rand.nextInt(33 * cases)) % (cases - 1));
 	}
 
-	public boolean testBeats(String pitcherChosenName) {
-		return Beats.equals(pitcherChosenName);
+	public boolean testBeats(Rps pitcherChosenName) {
+		return Beats == pitcherChosenName;
 	}
 
-	public boolean testTies(String pitcherChosenName) {
-		return Name.equals(pitcherChosenName);
+	public boolean testTies(Rps pitcherChosenName) {
+		return Name == pitcherChosenName;
 	}
 
-	public boolean testLoses(String pitcherChosenName) {
-		return Loses.equals(pitcherChosenName);
+	public boolean testLoses(Rps pitcherChosenName) {
+		return Loses == pitcherChosenName;
 	}
 
 	public void printChoice() {
 		System.out.println(Name);
 		System.out.println(Beats);
 		System.out.println(Loses);
-		
+
 	}
 
 }

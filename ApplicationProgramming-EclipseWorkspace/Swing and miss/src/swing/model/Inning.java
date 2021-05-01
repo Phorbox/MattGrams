@@ -34,32 +34,45 @@ public class Inning {
 		pitcherSelection.genPitcherOption();
 	}
 
+	public void printInning() {
+		System.out.println("outs:" + outs);
+		System.out.println("strikes:" + strikes);
+		System.out.println("balls:" + balls);
+		System.out.println("points:" + points);
+		System.out.println("RoundNumber:" + RoundNumber);
+		System.out.println("Bases:" + Bases[0] + Bases[1] + Bases[2] + Bases[3] + Bases[4]);
+	}
+
 	public void playInning() {
 
-		int playerSelectionIndex = PlayerSelection();
+		int playerSelectionIndex = playerSelection();
 		int comSelectionIndex = comSelection();
 		Round inningRound = makeRound(playerSelectionIndex, comSelectionIndex);
 		inningRound.playRound();
 		Outcome tempOutcome = inningRound.playRound();
 		applyOutcome(tempOutcome);
-		
+
 	}
 
-	private void applyOutcome(Outcome tempOutcome) {
-		String name = tempOutcome.Name;
+	public void applyOutcome(Outcome tempOutcome) {
+		Umpire name = tempOutcome.Name;
 		int strength = tempOutcome.value;
 
 		switch (name) {
-		case "Strike":
+		case STRIKE:
+			System.out.println(name+"s");
 			incrementStrike(strength);
 			;
-		case "Foul":
+		case FOUL:
+			System.out.println(name+"f");
 			incrementFoul(strength);
 			;
-		case "Base":
+		case BASE:
+			System.out.println(name+"e");
 			increaseBase(strength);
 			;
-		case "Ball":
+		case BALL:
+			System.out.println(name+"b");
 			incrementBall(strength);
 			;
 		default:
@@ -75,7 +88,7 @@ public class Inning {
 			increaseBase(1);
 			balls = 0;
 		}
-		
+
 	}
 
 	private void incrementFoul(int strength) {
@@ -103,7 +116,7 @@ public class Inning {
 
 	private void endInning() {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	private void increaseBase(int strength) {
@@ -111,7 +124,7 @@ public class Inning {
 		int j;
 		Bases[0] = true;
 		for (j = 0; j < strength; j++) {
-			for (i = 4; i > 0; i++) {
+			for (i = 4; i > 0; i--) {
 				incrementBase(i);
 				homeRun();
 			}
@@ -143,7 +156,7 @@ public class Inning {
 		return inningRound;
 	}
 
-	public int PlayerSelection() {
+	public int playerSelection() {
 		printPlayerSelection();
 		int chosen = chooseOption();
 		return chosen;

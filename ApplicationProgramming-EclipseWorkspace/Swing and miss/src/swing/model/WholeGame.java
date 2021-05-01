@@ -23,6 +23,11 @@ public class WholeGame {
 
 		while (gameEndTest(i)) {
 
+			// Standard game loop:
+			//  accept input
+			//  update game state
+			//  display game state
+			
 			verdict = currentInning.playInning();
 			i++;
 			// batter

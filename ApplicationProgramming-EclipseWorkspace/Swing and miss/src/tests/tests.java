@@ -10,7 +10,7 @@ import swing.model.Round;
 
 public class tests {
 
-	@Test
+	
 	public void testChoice() {
 		Option testBatter = new Option();
 		testBatter.genBatterOption();
@@ -58,19 +58,62 @@ public class tests {
 		TestOutcome.printOutcome();
 
 	}
-
-	private void testInning() {
-		Inning testInning = new Inning;
-		int playerSelectionIndex = testInning.PlayerSelection();
+	
+	@Test
+	public void testInning() {
+		Inning testInning = new Inning();
+		int i,j;
+		int playerSelectionIndex;
+		int comSelectionIndex;
+		Round inningRound;
 		
-		int comSelectionIndex = testInning.comSelection();
+		for (i = 0; i < 3; i++) {
+			for(j = 0; j < 3; j++) {
+				 playerSelectionIndex = i;
+				 comSelectionIndex = j;
+				
 
+				inningRound = testInning.makeRound(playerSelectionIndex, comSelectionIndex);
 
-		Round inningRound = makeRound(playerSelectionIndex, comSelectionIndex);
+				inningRound.playRound();
+				Outcome tempOutcome = inningRound.playRound();
+				testInning.applyOutcome(tempOutcome);
+				tempOutcome.printOutcome();
+				testInning.printInning();
+				System.out.println("");
 
-		inningRound.playRound();
-		Outcome tempOutcome = inningRound.playRound();
-		applyOutcome(tempOutcome);
+			}
+		}
+		
 	}
+	
+	@Test
+	public void testApplyOutcome() {
+		
+		Inning testInning = new Inning();
+		int i,j;
+		int playerSelectionIndex;
+		int comSelectionIndex;
+		Round inningRound;
+		
+		for (i = 0; i < 3; i++) {
+			for(j = 0; j < 3; j++) {
+				 playerSelectionIndex = i;
+				 comSelectionIndex = j;
+				
+
+				inningRound = testInning.makeRound(playerSelectionIndex, comSelectionIndex);
+
+				Outcome tempOutcome = inningRound.playRound();
+				testInning.applyOutcome(tempOutcome);
+				tempOutcome.printOutcome();
+				testInning.printInning();
+				System.out.println("");
+
+			}
+		}
+		
+	}
+	
 
 }

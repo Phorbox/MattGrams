@@ -30,9 +30,9 @@ public class Option {
 
 	public void genRockPaperScissors() {
 		// TODO Auto-generated method stub
-		choices[0] = new Choice("rock", "scissors", "paper");
-		choices[1] = new Choice("paper", "rock", "scissors");
-		choices[2] = new Choice("scissors", "paper", "rock");
+		choices[0] = new Choice(Rps.ROCK, Rps.SCISSORS, Rps.PAPER);
+		choices[1] = new Choice(Rps.PAPER, Rps.ROCK, Rps.SCISSORS);
+		choices[2] = new Choice(Rps.SCISSORS, Rps.PAPER, Rps.ROCK);
 
 	}
 
