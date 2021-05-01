@@ -59,13 +59,13 @@ public class Choice {
 
 	public Outcome compareChoice(String pitcherChosenName) {
 		if (testBeats(pitcherChosenName)) {
-			return randBeatsOutcome();
+			return randOutcome(resultBeats);
 		}
 		if (testTies(pitcherChosenName){
-		
+			return randOutcome(resultTies);
 		}
 		if(testLoses(pitcherChosenName){
-		
+			return randOutcome(resultLoses);
 		}
 
 	return null;
