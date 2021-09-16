@@ -5,10 +5,14 @@ import hashdb.HashHeader;
 import hashdb.Vehicle;
 import misc.ReturnCodes;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+
 public class StudentFunctions {
     /**
      * hashCreate
-     * This funcAon creates a hash file containing only the HashHeader record.
+     * This funcAon creates a hash file containing onlybinaryHashFile = new RandomAccessFile(fileName,"r"); the HashHeader record.
      * • If the file already exists, return RC_FILE_EXISTS
      * • Create the binary file by opening it.
      * • Write the HashHeader record to the file at RBN 0.
@@ -16,7 +20,34 @@ public class StudentFunctions {
      * • return RC_OK.
      */
     public static int hashCreate(String fileName, HashHeader hashHeader) {
-        return ReturnCodes.RC_FILE_EXISTS;
+        RandomAccessFile binaryHashFile;
+
+        if (hashBinaryFileExists(fileName)) {
+            return ReturnCodes.RC_FILE_EXISTS;
+        }
+
+
+        try {
+            binaryHashFile = new RandomAccessFile(fileName, "rw");
+            binaryHashFile.write(hashHeader.toByteArray());
+            binaryHashFile.close();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return ReturnCodes.RC_OK;
+    }
+
+    private static boolean hashBinaryFileExists(String fileName) {
+        boolean fileDoesExist = true;
+        RandomAccessFile binaryHashFile;
+        try {
+            binaryHashFile = new RandomAccessFile(fileName, "r");
+            binaryHashFile.close();
+        } catch (IOException e) {
+            fileDoesExist = false;
+        }
+        return fileDoesExist;
     }
 
     /**
@@ -30,7 +61,24 @@ public class StudentFunctions {
      * return RC_OK
      */
     public static int hashOpen(String fileName, HashFile hashFile) {
-        return ReturnCodes.RC_FILE_NOT_FOUND;
+        HashHeader header = new HashHeader();
+        if (hashBinaryFileExists(fileName)) {
+            return ReturnCodes.RC_FILE_NOT_FOUND;
+        }
+        byte[] headerBuffer = new byte[HashHeader.MAX_REC_SIZE];
+        try {
+            RandomAccessFile binaryHashFile = new RandomAccessFile(fileName, "rw");
+            binaryHashFile.read(headerBuffer);
+            header.fromByteArray(headerBuffer);
+            hashFile.setHashHeader(header);
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            return ReturnCodes.RC_HEADER_NOT_FOUND;
+        }
+
+        return ReturnCodes.RC_OK;
     }
 
     /**
@@ -59,8 +107,10 @@ public class StudentFunctions {
      * If the location is not found, return RC_LOC_NOT_FOUND.  Otherwise, return RC_OK.
      * Note: if the location is found, that does NOT imply that a vehicle
      * was written to that location.  Why?
-      */
+     */
     public static int readRec(HashFile hashFile, int rbn, Vehicle vehicle) {
+
+
         return ReturnCodes.RC_LOC_NOT_FOUND;
     }
 
