@@ -4,6 +4,7 @@ import hashdb.HashFile;
 import hashdb.HashHeader;
 import hashdb.Vehicle;
 import misc.ReturnCodes;
+import main.Main;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -95,7 +96,18 @@ public class StudentFunctions {
      * Note that in program #2, we will actually insert synonyms.
      */
     public static int vehicleInsert(HashFile hashFile, Vehicle vehicle) {
+        int tempMaxHash = getMaxHashFromHashFile(hashFile);
+        int hashedID = Main.hash(vehicle.getVehicleId(),tempMaxHash);
+
+
+
         return ReturnCodes.RC_SYNONYM;
+    }
+
+    public static int getMaxHashFromHashFile(HashFile hashFile){
+        HashHeader tempHeader = hashFile.getHashHeader();
+
+        return tempHeader.getMaxHash();
     }
 
     /**

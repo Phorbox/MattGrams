@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fa9255-17f8-4186-a7b4-999c693204e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/DatabaseSystems.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs3743-program1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashdb/HashFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashdb/HashFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashdb/HashHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashdb/HashHeader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashdb/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashdb/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/StudentFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/StudentFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/misc/ParseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/ParseException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/misc/ReturnCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/ReturnCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/StudentFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/StudentFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
