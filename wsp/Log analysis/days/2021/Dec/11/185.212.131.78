@@ -1,0 +1,11 @@
+-	15:31:54	-0600	POST /wp-content/plugins/wp-automatic/process_form.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:31:56	-0600	GET / HTTP/1.1	200	22019	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:28	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	403	7176	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:28	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	403	7176	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:29	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	403	7175	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:31	-0600	POST /wp-content/plugins/wp-automatic/process_form.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:31	-0600	POST / HTTP/1.1	403	7175	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:32	-0600	POST /wp-admin/admin-post.php HTTP/1.1	200	31	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:33	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	403	7173	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:33	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	403	7173	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	15:41:34	-0600	GET / HTTP/1.1	200	22019	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

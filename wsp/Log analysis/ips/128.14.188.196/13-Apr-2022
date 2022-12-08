@@ -1,0 +1,5 @@
+-	08:48:35	-0500	GET /robots.txt HTTP/1.1	200	26	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	08:48:47	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	08:48:50	-0500	GET /test_404_page/ HTTP/1.1	404	23407	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	08:50:07	-0500	GET //favicon.ico HTTP/1.1	302	5	-	python-requests/2.23.0
+-	08:50:08	-0500	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	-	python-requests/2.23.0

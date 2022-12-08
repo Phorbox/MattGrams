@@ -1,0 +1,2 @@
+-	14:22:57	-0500	GET / HTTP/1.1	200	24032	-	Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+-	14:23:49	-0500	GET / HTTP/1.1	503	2557	-	Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)

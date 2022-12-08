@@ -1,0 +1,5 @@
+-	08:06:57	-0600	GET / HTTP/1.1	200	24014	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:45:43	-0600	GET / HTTP/1.1	200	24014	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:45:44	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:45:47	-0600	GET /sitemap.xml HTTP/1.1	302	5	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:45:47	-0600	GET /wp-sitemap.xml HTTP/1.1	200	489	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)

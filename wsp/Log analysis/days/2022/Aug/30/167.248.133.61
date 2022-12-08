@@ -1,0 +1,4 @@
+-	09:15:52	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+-	09:15:55	-0500	GET /favicon.ico HTTP/1.1	302	5	-	Go-http-client/1.1
+-	09:15:56	-0500	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/favicon.ico	Go-http-client/1.1
+-	09:15:58	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)

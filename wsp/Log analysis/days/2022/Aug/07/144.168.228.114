@@ -1,0 +1,11 @@
+-	21:01:47	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:48	-0500	GET /xmlrpc.php?rsd HTTP/1.1	200	840	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:48	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25077	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:49	-0500	GET /wp-json/ HTTP/1.1	200	165011	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:50	-0500	GET /2020/10/ HTTP/1.1	200	24018	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:51	-0500	GET /wp-includes/wlwmanifest.xml HTTP/1.1	200	1045	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:52	-0500	GET /category/uncategorized/ HTTP/1.1	200	24072	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:53	-0500	GET /feed/ HTTP/1.1	200	1620	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:54	-0500	GET /wp-login.php HTTP/1.1	200	2056	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:56	-0500	GET /comments/feed/ HTTP/1.1	200	767	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36
+-	21:01:58	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.66 Safari/537.36

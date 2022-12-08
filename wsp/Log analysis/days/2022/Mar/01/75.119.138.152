@@ -1,0 +1,10 @@
+-	17:03:32	-0600	HEAD /wordpress HTTP/1.1	404	0	http://www.jmvaladezjr.com/wordpress	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:33	-0600	HEAD / HTTP/1.1	200	0	http://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:33	-0600	HEAD /wp HTTP/1.1	404	0	http://www.jmvaladezjr.com/wp	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:34	-0600	HEAD /bc HTTP/1.1	404	0	http://www.jmvaladezjr.com/bc	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:34	-0600	HEAD /bk HTTP/1.1	404	0	http://www.jmvaladezjr.com/bk	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:34	-0600	HEAD /backup HTTP/1.1	404	0	http://www.jmvaladezjr.com/backup	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:35	-0600	HEAD /old HTTP/1.1	404	0	http://www.jmvaladezjr.com/old	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:35	-0600	HEAD /new HTTP/1.1	404	0	http://www.jmvaladezjr.com/new	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:36	-0600	HEAD /main HTTP/1.1	404	0	http://www.jmvaladezjr.com/main	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	17:03:36	-0600	HEAD /home HTTP/1.1	404	0	http://www.jmvaladezjr.com/home	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36

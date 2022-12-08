@@ -1,0 +1,9 @@
+-	13:58:14	-0600	GET / HTTP/1.1	503	2557	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	13:58:15	-0600	POST /xmlrpc.php HTTP/1.1	200	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	13:58:16	-0600	POST /wordpress/xmlrpc.php HTTP/1.1	404	253	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	13:58:17	-0600	POST /wp/xmlrpc.php HTTP/1.1	404	253	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	13:58:19	-0600	GET / HTTP/1.1	503	2557	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+-	13:58:20	-0600	GET /wp-login.php HTTP/1.1	503	2557	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+-	13:58:21	-0600	GET /wp-admin HTTP/1.1	301	169	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+-	13:58:22	-0600	GET /wp-admin/ HTTP/1.1	503	2557	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+-	13:58:23	-0600	GET /login HTTP/1.1	503	2557	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0

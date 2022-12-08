@@ -1,0 +1,6 @@
+-	06:12:56	-0500	GET / HTTP/1.1	200	71645	-	Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+-	06:12:57	-0500	POST /xmlrpc.php HTTP/1.1	200	4285	-	Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+-	06:13:00	-0500	GET / HTTP/1.1	200	71645	-	Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+-	06:13:01	-0500	GET /wp-admin HTTP/1.1	301	169	-	Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+-	06:13:02	-0500	GET /wp-admin/ HTTP/1.1	302	5	-	Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+-	06:13:03	-0500	GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.jmvaladezjr.com%2Fwp-admin%2F&reauth=1 HTTP/1.1	200	5881	-	Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0

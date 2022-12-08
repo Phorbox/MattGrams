@@ -1,0 +1,7 @@
+-	01:32:44	-0500	POST /xmlrpc.php HTTP/1.1	200	415	-	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+-	02:43:02	-0500	POST /xmlrpc.php HTTP/1.1	200	415	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+-	09:22:34	-0500	POST /xmlrpc.php HTTP/1.1	503	18981	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+-	10:41:06	-0500	POST /xmlrpc.php HTTP/1.1	503	18981	-	Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1
+-	11:47:28	-0500	POST /xmlrpc.php HTTP/1.1	503	18988	-	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+-	19:26:55	-0500	POST /xmlrpc.php HTTP/1.1	503	18979	-	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+-	23:27:34	-0500	POST /xmlrpc.php HTTP/1.1	503	18979	-	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0

@@ -1,0 +1,6 @@
+-	21:28:34	-0600	GET / HTTP/1.1	200	24014	-	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+-	21:28:35	-0600	GET /favicon.ico HTTP/1.1	302	5	-	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+-	21:28:35	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+-	21:28:35	-0600	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/favicon.ico	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+-	21:28:35	-0600	GET /favicon.ico HTTP/1.1	302	5	-	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+-	21:28:35	-0600	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/favicon.ico	Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36

@@ -1,0 +1,6 @@
+-	04:21:56	-0500	GET /wp-json/wp/v2/posts HTTP/1.1	200	1788	www.jmvaladezjr.com/wp-json/wp/v2/posts	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+-	04:21:57	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+-	04:21:58	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+-	04:21:59	-0500	POST /wp-comments-post.php HTTP/1.1	302	5	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+-	04:22:00	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+-	04:22:01	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75001	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko

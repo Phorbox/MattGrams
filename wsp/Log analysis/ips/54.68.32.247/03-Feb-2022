@@ -1,0 +1,1 @@
+-	12:01:43	-0600	GET /wp-admin/admin-ajax.php?action=wordfence_doScan&isFork=0&scanMode=standard&cronKey=91283c1ee80c2b3d2f2aec806346f946&signature=963572fb65eb2ebf6a3eb23236c99f0a4ecba1176c5be97327f56c6a2588e747&remote=1 HTTP/1.1	200	5	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36

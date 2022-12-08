@@ -1,0 +1,15 @@
+-	00:59:02	-0500	POST /wp-cron.php?doing_wp_cron=1652594342.8516969680786132812500 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652594342.8516969680786132812500	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	00:59:03	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	07:11:38	-0500	POST /?wordfence_syncAttackData=1652616697.714 HTTP/1.1	200	5	https://www.jmvaladezjr.com/?wordfence_syncAttackData=1652616697.714	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	07:11:38	-0500	POST /wp-cron.php?doing_wp_cron=1652616698.0849709510803222656250 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652616698.0849709510803222656250	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	15:19:00	-0500	POST /?wordfence_syncAttackData=1652645940.4773 HTTP/1.1	200	5	https://www.jmvaladezjr.com/?wordfence_syncAttackData=1652645940.4773	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	15:19:01	-0500	POST /wp-cron.php?doing_wp_cron=1652645940.9836289882659912109375 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652645940.9836289882659912109375	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	15:19:03	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	15:19:10	-0500	POST /wp-admin/admin-ajax.php?action=wordfence_testAjax HTTP/1.1	503	81	https://www.jmvaladezjr.com/wp-admin/admin-ajax.php?action=wordfence_testAjax	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	16:45:41	-0500	POST /wp-cron.php?doing_wp_cron=1652651141.2580499649047851562500 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652651141.2580499649047851562500	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	19:11:18	-0500	POST /wp-cron.php?doing_wp_cron=1652659878.8115680217742919921875 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652659878.8115680217742919921875	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	19:51:11	-0500	POST /wp-cron.php?doing_wp_cron=1652662271.2194960117340087890625 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652662271.2194960117340087890625	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	20:19:21	-0500	POST /wp-cron.php?doing_wp_cron=1652663961.0174589157104492187500 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652663961.0174589157104492187500	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	20:47:41	-0500	POST /wp-cron.php?doing_wp_cron=1652665660.9254019260406494140625 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652665660.9254019260406494140625	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	23:45:06	-0500	POST /?wordfence_syncAttackData=1652676305.5791 HTTP/1.1	200	5	https://www.jmvaladezjr.com/?wordfence_syncAttackData=1652676305.5791	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	23:45:06	-0500	POST /wp-cron.php?doing_wp_cron=1652676306.3884730339050292968750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652676306.3884730339050292968750	WordPress/5.9.2; https://www.jmvaladezjr.com

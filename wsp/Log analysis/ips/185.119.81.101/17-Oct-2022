@@ -1,0 +1,6 @@
+-	08:18:18	-0500	GET /wp-login.php HTTP/1.1	200	2055	-	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+-	08:18:19	-0500	POST /wp-login.php HTTP/1.1	503	18981	https://www.jmvaladezjr.com/wp-login.php	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+-	11:08:18	-0500	GET /wp-login.php HTTP/1.1	200	2055	-	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
+-	11:08:20	-0500	POST /wp-login.php HTTP/1.1	503	18981	https://www.jmvaladezjr.com/wp-login.php	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
+-	23:16:24	-0500	GET /wp-login.php HTTP/1.1	200	2055	-	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+-	23:16:25	-0500	POST /wp-login.php HTTP/1.1	503	18986	https://www.jmvaladezjr.com/wp-login.php	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36

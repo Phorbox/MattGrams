@@ -1,0 +1,6 @@
+-	05:14:49	-0600	GET /wp-class.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+-	05:14:50	-0600	GET /wp-includes/wp-class.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+-	05:14:50	-0600	GET /wp-content/themes/sketch/404.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+-	05:14:51	-0600	GET /css/index.php HTTP/1.1	404	31	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+-	05:14:51	-0600	GET /wp-content/themes/sketch/404.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+-	05:14:51	-0600	GET /wp-content/themes/sketch/content-sample.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0

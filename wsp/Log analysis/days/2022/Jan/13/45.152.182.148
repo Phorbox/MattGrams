@@ -1,0 +1,12 @@
+-	22:39:20	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:23	-0600	GET / HTTP/1.1	200	22019	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:25	-0600	GET /xmlrpc.php?rsd HTTP/1.1	200	840	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:27	-0600	GET /2020/10/09/hello-world/ HTTP/1.1	200	23014	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:29	-0600	GET /wp-json/ HTTP/1.1	200	118101	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:31	-0600	GET /2020/10/ HTTP/1.1	200	21994	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:33	-0600	GET /wp-includes/wlwmanifest.xml HTTP/1.1	200	1045	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:35	-0600	GET /category/uncategorized/ HTTP/1.1	200	22051	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:37	-0600	GET /feed/ HTTP/1.1	200	1620	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:39	-0600	GET /wp-login.php HTTP/1.1	200	2053	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:41	-0600	GET /comments/feed/ HTTP/1.1	200	767	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36
+-	22:39:43	-0600	GET / HTTP/1.1	200	22019	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3444.0 Safari/537.36

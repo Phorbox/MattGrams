@@ -1,0 +1,3 @@
+-	07:35:13	-0600	GET /wp-content/themes/twentyseventeen/assets/css/blocks.css?ver=20190105 HTTP/1.1	200	10983	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+-	07:35:46	-0600	GET / HTTP/1.1	200	23422	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+-	07:35:47	-0600	GET /comments/feed/ HTTP/1.1	200	765	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36

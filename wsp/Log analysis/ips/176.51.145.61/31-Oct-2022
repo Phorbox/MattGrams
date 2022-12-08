@@ -1,0 +1,8 @@
+-	12:32:04	-0500	HEAD / HTTP/1.1	200	0	-	curl/7.29.0
+-	12:32:17	-0500	GET /admin/ HTTP/1.1	302	5	-	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000
+-	12:32:27	-0500	GET /wp-admin/ HTTP/1.1	302	5	-	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000
+-	12:32:37	-0500	GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.jmvaladezjr.com%2Fwp-admin%2F&reauth=1 HTTP/1.1	200	5881	-	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000
+-	12:32:56	-0500	GET /manager/ HTTP/1.1	404	69238	-	Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.9.1.3) Gecko/20090824 MRA 5.5 (build 02812) Firefox/3.5.3 MRSpy/0.3.11 (.NET CLR 3.5.30729)
+-	12:33:10	-0500	GET /admin/content/sitetree/ HTTP/1.1	404	69239	-	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16
+-	12:33:23	-0500	GET /simpla/ HTTP/1.0	404	69155	-	Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.2.10) Gecko/20100916 Firefox/3.6.10
+-	12:33:35	-0500	GET /js/mage/cookies.js HTTP/1.1	404	69238	-	Mozilla/5.0 (compatible; discobot/2.0; +http://discoveryengine.com/discobot.html)

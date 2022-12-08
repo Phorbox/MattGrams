@@ -1,0 +1,8 @@
+-	02:05:17	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	02:05:23	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	02:05:29	-0500	GET /robots.txt HTTP/1.1	200	26	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	03:56:24	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	03:56:30	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	03:56:31	-0500	GET /robots.txt HTTP/1.1	200	26	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:29:25	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+-	09:29:30	-0500	GET /robots.txt HTTP/1.1	200	26	-	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)

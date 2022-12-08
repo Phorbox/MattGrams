@@ -1,0 +1,4 @@
+-	00:06:14	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68
+-	00:06:33	-0500	GET /xmlrpc.php?rsd HTTP/1.1	200	840	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68
+-	00:06:43	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25075	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68
+-	00:07:05	-0500	GET /wp-json/ HTTP/1.1	200	165011	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68

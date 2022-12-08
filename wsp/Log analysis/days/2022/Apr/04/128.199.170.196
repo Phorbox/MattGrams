@@ -1,0 +1,5 @@
+-	16:03:31	-0500	HEAD / HTTP/1.1	200	0	https://www.bing.com	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	16:03:33	-0500	GET / HTTP/1.1	200	24032	http://jmvaladezjr.com	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	16:03:35	-0500	GET / HTTP/1.1	503	2557	http://jmvaladezjr.com	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	16:03:36	-0500	GET / HTTP/1.1	503	2557	http://jmvaladezjr.com	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+-	16:03:38	-0500	GET / HTTP/1.1	503	2557	http://jmvaladezjr.com	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36

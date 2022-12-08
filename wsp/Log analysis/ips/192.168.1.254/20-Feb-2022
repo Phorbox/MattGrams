@@ -1,0 +1,25 @@
+-	00:54:53	-0600	POST /?wordfence_syncAttackData=1645340092.9049 HTTP/1.1	499	0	https://www.jmvaladezjr.com/?wordfence_syncAttackData=1645340092.9049	WordPress/5.9; https://www.jmvaladezjr.com
+-	00:54:54	-0600	POST /wp-cron.php?doing_wp_cron=1645340093.9522070884704589843750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645340093.9522070884704589843750	WordPress/5.9; https://www.jmvaladezjr.com
+-	00:54:58	-0600	GET / HTTP/1.1	200	23422	https://www.jmvaladezjr.com/	WordPress/5.9; https://www.jmvaladezjr.com
+-	01:02:16	-0600	POST /wp-cron.php?doing_wp_cron=1645340535.9082760810852050781250 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645340535.9082760810852050781250	WordPress/5.9; https://www.jmvaladezjr.com
+-	05:35:39	-0600	POST /wp-cron.php?doing_wp_cron=1645356939.6330890655517578125000 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645356939.6330890655517578125000	WordPress/5.9; https://www.jmvaladezjr.com
+-	12:18:45	-0600	POST /wp-cron.php?doing_wp_cron=1645381125.8678209781646728515625 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645381125.8678209781646728515625	WordPress/5.9; https://www.jmvaladezjr.com
+-	12:18:46	-0600	GET / HTTP/1.1	200	23422	https://www.jmvaladezjr.com/	WordPress/5.9; https://www.jmvaladezjr.com
+-	14:07:08	-0600	POST /wp-cron.php?doing_wp_cron=1645387628.3582379817962646484375 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645387628.3582379817962646484375	WordPress/5.9; https://www.jmvaladezjr.com
+-	14:07:11	-0600	POST /wp-admin/admin-ajax.php?action=wordfence_testAjax HTTP/1.1	200	43	https://www.jmvaladezjr.com/wp-admin/admin-ajax.php?action=wordfence_testAjax	WordPress/5.9; https://www.jmvaladezjr.com
+-	14:07:12	-0600	GET /wp-admin/admin-ajax.php?action=wordfence_doScan&isFork=0&scanMode=quick&cronKey=c7dfcb209d5efdbc254f20d012628418&signature=fa33ce6f94a500e2f09f387d0620cb64b845cca9e48ceacaaa8971d0faaa333b HTTP/1.1	200	31	-	WordPress/5.9; https://www.jmvaladezjr.com
+-	15:32:21	-0600	GET / HTTP/1.1	500	2539	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	15:32:21	-0600	GET /favicon.ico HTTP/1.1	499	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	18:36:14	-0600	GET / HTTP/1.1	500	2539	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	18:36:14	-0600	GET /favicon.ico HTTP/1.1	499	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	POST /wp-cron.php?doing_wp_cron=1645405624.9764010906219482421875 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645405624.9764010906219482421875	WordPress/5.9; https://www.jmvaladezjr.com
+-	19:07:05	-0600	GET / HTTP/1.1	200	24014	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-includes/css/dist/block-library/style.min.css?ver=5.9 HTTP/1.1	200	79227	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/style.css?ver=20201208 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/css/blocks.css?ver=20190105 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/css/colors-dark.css?ver=20190408 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=20161114 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/js/global.js?ver=20190121 HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	19:07:05	-0600	GET /wp-content/themes/twentyseventeen/assets/images/header.jpg HTTP/1.1	304	0	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+-	21:30:47	-0600	POST /wp-cron.php?doing_wp_cron=1645414247.3061900138854980468750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1645414247.3061900138854980468750	WordPress/5.9; https://www.jmvaladezjr.com

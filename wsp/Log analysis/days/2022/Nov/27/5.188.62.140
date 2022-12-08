@@ -1,0 +1,2 @@
+-	07:37:19	-0600	GET /wp-login.php?wp_lang=en_US HTTP/1.1	200	1889	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4895.86 Safari/537.36
+-	07:37:33	-0600	POST /wp-login.php?wp_lang=en_US HTTP/1.1	200	2027	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4895.86 Safari/537.36

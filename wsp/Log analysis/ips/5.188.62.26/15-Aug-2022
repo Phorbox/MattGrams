@@ -1,0 +1,9 @@
+-	03:10:08	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+-	03:10:21	-0500	GET /phpmyadmin/index.php HTTP/1.1	404	31	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4895.86 Safari/537.36
+-	03:10:23	-0500	GET /phpmyadmin/ HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4895.86 Safari/537.36
+-	07:00:27	-0500	GET /dump.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+-	07:00:27	-0500	GET /db.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+-	07:00:28	-0500	GET /sql.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+-	07:00:28	-0500	GET /backup.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+-	07:00:29	-0500	GET /database.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+-	07:00:30	-0500	GET /admin.sql HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36

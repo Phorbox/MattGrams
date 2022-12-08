@@ -1,0 +1,14 @@
+-	14:37:16	-0600	GET / HTTP/1.1	200	24014	https://www.google.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:18	-0600	GET / HTTP/1.1	200	23422	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:18	-0600	GET / HTTP/1.1	200	23422	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:18	-0600	HEAD / HTTP/1.1	200	0	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:18	-0600	GET /45c08df.html HTTP/1.1	404	22801	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:20	-0600	GET /feed/ HTTP/1.1	200	1618	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:20	-0600	GET /comments/feed/ HTTP/1.1	200	765	https://www.jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:23	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:23	-0600	GET /2020/10/09/hello-world/ HTTP/1.1	200	24285	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:23	-0600	GET /2020/10/ HTTP/1.1	200	23410	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:23	-0600	GET /wp-login.php HTTP/1.1	200	2052	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:24	-0600	GET /category/uncategorized/ HTTP/1.1	503	19013	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:25	-0600	GET /author/jmvaladez/ HTTP/1.1	503	18099	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+-	14:37:25	-0600	GET /wp-login.php?action=lostpassword HTTP/1.1	503	18099	-	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36

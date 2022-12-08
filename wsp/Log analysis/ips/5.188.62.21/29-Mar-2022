@@ -1,0 +1,4 @@
+-	06:00:32	-0500	POST /wp-login.php HTTP/1.1	503	18981	-	Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+-	13:47:29	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+-	13:47:36	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+-	13:47:42	-0500	GET /phpmyadmin/index.php HTTP/1.1	404	31	-	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36

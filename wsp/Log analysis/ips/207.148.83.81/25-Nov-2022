@@ -1,0 +1,10 @@
+-	19:10:23	-0600	GET / HTTP/1.1	200	24477	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:10:34	-0600	POST /wp-admin/admin-ajax.php HTTP/1.1	400	11	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:10:44	-0600	GET /wp-admin/admin-ajax.php?action=td_ajax_fb_login_user HTTP/1.1	400	11	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:10:55	-0600	GET / HTTP/1.1	200	24477	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:11:06	-0600	GET /wp-content/plugins/user-registration/assets/css/dashboard.css HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:11:17	-0600	GET /wp-content/plugins/widget-google-reviews/assets/css/public-main.css HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:11:28	-0600	GET /wp-content/plugins/wp-user-frontend/assets/css/frontend-forms.css HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:11:39	-0600	GET /wp-content/plugins/wp-user-frontend-pro/assets/css/css-stars.css HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:11:50	-0600	GET /wp-content/plugins/imagemagick-engine/js/ime-admin.js HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	19:12:01	-0600	GET /wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

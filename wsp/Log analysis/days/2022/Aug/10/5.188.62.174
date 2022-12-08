@@ -1,0 +1,6 @@
+-	16:27:50	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4895.86 Safari/537.36
+-	16:42:41	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	16:42:46	-0500	GET /admin/ HTTP/1.1	302	5	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	16:42:46	-0500	GET /wp-admin/ HTTP/1.1	302	5	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	16:42:47	-0500	GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.jmvaladezjr.com%2Fwp-admin%2F&reauth=1 HTTP/1.1	200	2055	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	16:42:52	-0500	GET /admin/login.php HTTP/1.1	404	23407	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36

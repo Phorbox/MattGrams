@@ -1,0 +1,6 @@
+-	02:50:53	-0600	GET /wp-login.php?wp_lang=en_US HTTP/1.1	200	1892	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	02:51:08	-0600	POST /wp-login.php?wp_lang=en_US HTTP/1.1	200	2026	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4758.11 Safari/537.36
+-	12:14:11	-0600	GET /wp-login.php?wp_lang=en_US HTTP/1.1	200	1893	-	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+-	12:14:26	-0600	POST /wp-login.php?wp_lang=en_US HTTP/1.1	200	2027	-	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+-	21:49:48	-0600	GET /wp-login.php?wp_lang=en_US HTTP/1.1	200	1889	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+-	21:50:02	-0600	POST /wp-login.php?wp_lang=en_US HTTP/1.1	200	2027	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36

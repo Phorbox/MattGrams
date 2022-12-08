@@ -1,0 +1,4 @@
+-	19:25:05	-0600	GET /wp-content/themes/twentyseventeen/style.css?ver=20221101 HTTP/1.1	200	84335	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4664.45 Safari/537.36
+-	19:25:05	-0600	GET /wp-content/themes/twentyseventeen/assets/images/header.jpg HTTP/1.1	200	114854	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4664.45 Safari/537.36
+-	19:25:16	-0600	GET /favicon.ico HTTP/1.1	302	5	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4664.45 Safari/537.36
+-	19:25:16	-0600	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4664.45 Safari/537.36

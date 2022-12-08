@@ -1,0 +1,12 @@
+-	19:45:48	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:48	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/blog/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:49	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/wp/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:50	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/wordpress/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:50	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/new/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:51	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/old/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:51	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/test/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:53	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/main/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:53	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/site/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:54	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com/backup/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:55	-0600	GET / HTTP/1.1	503	19013	https://jmvaladezjr.com/demo/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+-	19:45:56	-0600	GET / HTTP/1.1	503	18099	https://jmvaladezjr.com/home/	Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36

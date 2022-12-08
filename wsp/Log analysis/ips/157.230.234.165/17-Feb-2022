@@ -1,0 +1,20 @@
+-	06:07:23	-0600	GET / HTTP/1.1	200	24014	https://jmvaladezjr.com/wp-admin/css/colors/blue/blue.php?ch=1	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:24	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-admin/css/colors/blue/blue.php.suspected?ch=1	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:25	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-includes/ms-cache.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:25	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-includes/ms-cache.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:26	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/2index.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:27	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/2index.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:07:59	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-content/themes/FifteenTen/404.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:00	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-content/themes/FifteenTen/404.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:00	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-mail.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:01	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-mail.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:02	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/xmlrpc.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:02	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/xmlrpc.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:03	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/load.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:35	-0600	GET / HTTP/1.1	200	24014	https://jmvaladezjr.com/load.php.suspected	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:36	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:37	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-content/plugins/wp-light/wp-light.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:37	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-content/plugins/networker/networker.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:38	-0600	GET / HTTP/1.1	200	23422	https://jmvaladezjr.com/wp-content/themes/twentythree/inc/index.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:40	-0600	GET / HTTP/1.1	503	19015	https://jmvaladezjr.com/wp-content/themes/classic/inc/index.php	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:08:40	-0600	GET / HTTP/1.1	503	18101	https://jmvaladezjr.com/	wp_is_mobile

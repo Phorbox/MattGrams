@@ -1,0 +1,5 @@
+-	06:24:23	-0600	GET / HTTP/1.1	200	22019	https://jmvaladezjr.com	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:24:27	-0600	GET /wp-content/plugins/capability-manager-enhanced/common/js/admin.js HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:24:32	-0600	GET /wp-content/plugins/capability-manager-enhanced/common/js/admin.js HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:24:39	-0600	GET /wp-content/plugins/capabilities-pro/common/js/admin.js HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+-	06:24:41	-0600	GET /wp-content/plugins/capabilities-pro/common/js/admin.js HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

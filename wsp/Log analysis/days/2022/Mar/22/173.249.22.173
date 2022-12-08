@@ -1,0 +1,7 @@
+-	04:11:29	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:20:09	-0500	GET /wp-content/themes/twentyseventeen/assets/js/html5.js?ver=20161020 HTTP/1.1	200	10655	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:23:51	-0500	GET /wp-includes/js/jquery/jquery.min.js?ver=3.6.0 HTTP/1.1	200	89521	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:27:28	-0500	GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/1.1	200	11224	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:30:27	-0500	GET /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=20161114 HTTP/1.1	200	714	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:33:08	-0500	GET /wp-content/themes/twentyseventeen/assets/js/global.js?ver=20190121 HTTP/1.1	200	8077	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+-	04:35:25	-0500	GET /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2 HTTP/1.1	200	6045	-	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36

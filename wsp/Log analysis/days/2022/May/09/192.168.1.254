@@ -1,0 +1,10 @@
+-	01:33:09	-0500	POST /wp-cron.php?doing_wp_cron=1652077989.4379611015319824218750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652077989.4379611015319824218750	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	01:33:10	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	01:53:20	-0500	POST /wp-cron.php?doing_wp_cron=1652079200.4284379482269287109375 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652079200.4284379482269287109375	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	03:16:59	-0500	POST /wp-cron.php?doing_wp_cron=1652084219.3521189689636230468750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652084219.3521189689636230468750	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	03:47:59	-0500	POST /wp-cron.php?doing_wp_cron=1652086079.6663670539855957031250 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652086079.6663670539855957031250	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	17:28:29	-0500	POST /?wordfence_syncAttackData=1652135309.2263 HTTP/1.1	200	5	https://www.jmvaladezjr.com/?wordfence_syncAttackData=1652135309.2263	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	17:28:29	-0500	POST /wp-cron.php?doing_wp_cron=1652135309.7212998867034912109375 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652135309.7212998867034912109375	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	17:28:32	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	17:28:36	-0500	POST /wp-admin/admin-ajax.php?action=wordfence_testAjax HTTP/1.1	503	81	https://www.jmvaladezjr.com/wp-admin/admin-ajax.php?action=wordfence_testAjax	WordPress/5.9.2; https://www.jmvaladezjr.com
+-	21:26:34	-0500	POST /wp-cron.php?doing_wp_cron=1652149594.5853190422058105468750 HTTP/1.1	200	31	https://www.jmvaladezjr.com/wp-cron.php?doing_wp_cron=1652149594.5853190422058105468750	WordPress/5.9.2; https://www.jmvaladezjr.com

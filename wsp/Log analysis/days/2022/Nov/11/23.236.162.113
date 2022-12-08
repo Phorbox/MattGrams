@@ -1,0 +1,4 @@
+-	19:54:40	-0600	GET / HTTP/1.1	200	71645	jmvaladezjr.com	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 (Edition Yx 01)
+-	19:54:53	-0600	GET / HTTP/1.1	200	71645	https://jmvaladezjr.com	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 (Edition Yx 01)
+-	19:55:04	-0600	GET /comments/feed HTTP/1.1	301	5	https://www.jmvaladezjr.com/comments/feed	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 (Edition Yx 01)
+-	19:55:14	-0600	GET /comments/feed/ HTTP/1.1	200	767	https://www.jmvaladezjr.com/comments/feed	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 (Edition Yx 01)

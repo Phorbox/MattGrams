@@ -1,0 +1,4 @@
+-	13:20:37	-0600	GET / HTTP/1.1	200	73290	jmvaladezjr.com	Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020811)
+-	13:20:49	-0600	GET / HTTP/1.1	200	73290	https://jmvaladezjr.com	Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020811)
+-	13:21:00	-0600	GET /comments/feed HTTP/1.1	301	5	https://www.jmvaladezjr.com/comments/feed	Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020811)
+-	13:21:10	-0600	GET /comments/feed/ HTTP/1.1	200	765	https://www.jmvaladezjr.com/comments/feed	Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020811)

@@ -1,0 +1,9 @@
+-	15:49:34	-0500	GET /?author=261 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:49:46	-0500	GET /?author=262 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:49:58	-0500	GET /?author=263 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:50:09	-0500	GET /?author=264 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:50:21	-0500	GET /?author=265 HTTP/1.1	404	69238	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:50:33	-0500	GET /?author=266 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:50:44	-0500	GET /?author=267 HTTP/1.1	404	69238	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:50:56	-0500	GET /?author=268 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+-	15:51:07	-0500	GET /?author=269 HTTP/1.1	499	0	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0

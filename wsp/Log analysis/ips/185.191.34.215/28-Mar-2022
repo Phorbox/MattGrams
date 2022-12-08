@@ -1,0 +1,7 @@
+-	00:58:21	-0500	POST /wp-content/themes/twentyseventeen/page.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	00:58:21	-0500	POST /wp-content/themes/twentyseventeen/search.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	01:44:59	-0500	POST /wp-content/themes/twentyseventeen/searchform.php HTTP/1.1	500	12	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+-	03:49:15	-0500	POST /wp-content/themes/twentyseventeen/single.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+-	04:12:36	-0500	POST /wp-content/themes/twentyseventeen/inc/custom-header.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	11:08:37	-0500	POST /wp-content/themes/twentyseventeen/index.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+-	16:49:11	-0500	POST /wp-content/themes/twentyseventeen/template-parts/header/header-image.php HTTP/1.1	500	82	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36

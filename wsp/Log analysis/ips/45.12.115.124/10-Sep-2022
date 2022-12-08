@@ -1,0 +1,6 @@
+-	12:58:15	-0500	GET /wp-json/wp/v2/posts HTTP/1.1	200	1788	www.jmvaladezjr.com/wp-json/wp/v2/posts	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+-	12:58:16	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+-	12:58:18	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+-	12:58:20	-0500	POST /wp-comments-post.php HTTP/1.1	302	5	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+-	12:58:20	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+-	12:58:22	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36

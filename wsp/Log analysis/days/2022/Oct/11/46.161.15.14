@@ -1,0 +1,6 @@
+-	15:17:11	-0500	GET / HTTP/1.1	200	71645	https://jmvaladezjr.com/community/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+-	15:17:14	-0500	GET / HTTP/1.1	200	71645	https://jmvaladezjr.com/community/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+-	15:17:17	-0500	GET / HTTP/1.1	200	71645	https://jmvaladezjr.com/forums/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+-	15:17:24	-0500	GET / HTTP/1.1	503	2557	https://jmvaladezjr.com/forums/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+-	15:17:28	-0500	GET / HTTP/1.1	503	2557	https://jmvaladezjr.com/forum/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+-	15:17:38	-0500	GET / HTTP/1.1	503	2557	https://jmvaladezjr.com/forum/?wpforo=signup	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36

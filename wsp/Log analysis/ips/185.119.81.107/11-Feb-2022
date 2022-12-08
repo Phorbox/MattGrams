@@ -1,0 +1,15 @@
+-	13:17:47	-0600	GET / HTTP/1.1	200	24014	https://jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:49	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:50	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:51	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:52	-0600	GET / HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:53	-0600	GET /?d3v=x&author=1 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:55	-0600	GET /?d3v=x&author=2 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:56	-0600	GET /?d3v=x&author=3 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:17:56	-0600	GET /?d3v=x&author=4 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:03	-0600	GET /?d3v=x&author=5 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:04	-0600	GET /?d3v=x&author=6 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:06	-0600	GET /?d3v=x&author=7 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:07	-0600	GET /?d3v=x&author=8 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:15	-0600	GET /?d3v=x&author=9 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	13:18:16	-0600	GET /?d3v=x&author=10 HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36

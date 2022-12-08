@@ -1,0 +1,6 @@
+-	05:01:11	-0500	POST /wp-content/plugins/background-image-cropper/image/ico/s_ne.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+-	19:01:49	-0500	POST /wp-content/themes/twentyseventeen/template-parts/post/content-audio.php HTTP/1.1	500	31	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+-	19:05:44	-0500	POST /wp-content/themes/twentyseventeen/header.php HTTP/1.1	500	34	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+-	19:05:44	-0500	POST /wp-content/plugins/background-image-cropper/s_ne.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+-	23:01:34	-0500	POST /wp-content/themes/twentyseventeen/comments.php HTTP/1.1	500	5	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	23:02:06	-0500	POST /qq.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0

@@ -1,0 +1,5 @@
+-	06:15:29	-0600	POST /js/js.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+-	08:17:30	-0600	GET /strings-xml.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+-	08:21:35	-0600	GET /cong.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+-	11:17:11	-0600	POST /catalog/catalog.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+-	23:56:50	-0600	GET /wp-content/uploads/2022/09/ups.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
