@@ -1,7 +1,0 @@
--	04:19:02	-0600	GET / HTTP/1.1	200	57653	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /feed/ HTTP/1.1	200	1620	https://www.jmvaladezjr.com/feed/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /wp-login.php HTTP/1.1	200	5885	https://www.jmvaladezjr.com/wp-login.php	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /2020/10/ HTTP/1.1	200	57476	https://www.jmvaladezjr.com/2020/10/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /comments/feed/ HTTP/1.1	200	767	https://www.jmvaladezjr.com/comments/feed/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /2020/10/09/hello-world/ HTTP/1.1	200	60858	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
--	04:19:03	-0600	GET /category/uncategorized/ HTTP/1.1	200	57843	https://www.jmvaladezjr.com/category/uncategorized/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0

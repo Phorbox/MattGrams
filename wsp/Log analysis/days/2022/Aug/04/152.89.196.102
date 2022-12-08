@@ -1,4 +1,0 @@
--	02:19:35	-0500	HEAD / HTTP/1.1	200	0	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	02:43:19	-0500	POST /stats.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	07:47:18	-0500	POST /assets/images/s_ne.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	13:40:51	-0500	GET /wp-coments.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0

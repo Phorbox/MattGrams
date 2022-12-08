@@ -1,6 +1,0 @@
--	17:16:36	-0600	GET / HTTP/1.1	200	24014	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	17:17:15	-0600	GET /wp-login.php HTTP/1.1	200	5865	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
--	18:23:15	-0600	GET / HTTP/1.1	200	71639	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
--	18:25:14	-0600	GET /?author=1 HTTP/1.1	404	69233	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
--	18:27:12	-0600	POST /wp-login.php HTTP/1.1	503	18977	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
--	18:33:42	-0600	POST /wp-login.php HTTP/1.1	503	18063	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36

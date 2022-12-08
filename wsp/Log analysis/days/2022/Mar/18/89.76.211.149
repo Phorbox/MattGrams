@@ -1,7 +1,0 @@
--	00:10:26	-0500	POST /wp-comments-post.php HTTP/1.1	302	30	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	06:03:46	-0500	POST /wp-comments-post.php HTTP/1.1	200	30	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	06:11:38	-0500	POST /wp-comments-post.php HTTP/1.1	200	30	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	06:23:30	-0500	POST /wp-comments-post.php HTTP/1.1	302	30	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	06:58:19	-0500	POST /wp-comments-post.php HTTP/1.1	403	2712	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	06:58:19	-0500	POST /wp-comments-post.php HTTP/1.1	403	2712	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
--	07:26:11	-0500	POST /wp-comments-post.php HTTP/1.1	302	30	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36

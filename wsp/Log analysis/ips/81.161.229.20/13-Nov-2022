@@ -1,5 +1,0 @@
--	19:09:17	-0600	GET /feed/ HTTP/1.1	200	1620	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
--	19:09:28	-0600	GET /?author=1 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
--	19:09:38	-0600	GET /wp-json/wp/v2/users/ HTTP/1.1	401	119	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
--	19:09:48	-0600	GET /wp-json/oembed/1.0/embed?url=https://www.jmvaladezjr.com HTTP/1.1	404	84	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
--	19:09:59	-0600	POST /xmlrpc.php HTTP/1.1	503	18979	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36

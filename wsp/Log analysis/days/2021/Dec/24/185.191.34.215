@@ -1,7 +1,0 @@
--	13:45:08	-0600	POST /wp-includes/ID3/menu_settings.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	13:51:17	-0600	POST /wp-content/plugins/background-image-cropper/index3.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	14:05:37	-0600	POST /assets/images/utility.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	14:05:37	-0600	POST /cache/index3.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	14:05:37	-0600	POST /cgi-bin/menu_settings.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	14:33:06	-0600	POST /wp-admin/css/colors/blue/menu_settings.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	14:53:55	-0600	POST /.well-known/acme-challenge/menu_settings.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0

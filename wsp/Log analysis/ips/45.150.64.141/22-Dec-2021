@@ -1,6 +1,0 @@
--	00:49:49	-0600	POST / HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	00:49:50	-0600	POST / HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	00:49:50	-0600	POST /wp-blog-header.php HTTP/1.1	404	31	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	00:49:51	-0600	POST /wp-content/uploads/wp-blockup.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	00:49:52	-0600	POST /wp-stream.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	00:49:53	-0600	POST /wp-deactivate.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

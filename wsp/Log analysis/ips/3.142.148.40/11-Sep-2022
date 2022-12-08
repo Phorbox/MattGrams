@@ -1,7 +1,0 @@
--	19:29:58	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:01	-0500	GET /wp-content/themes/seotheme/mar.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:09	-0500	GET /wp-content/plugins/seoplugins/mar.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:10	-0500	GET /wp-ontent/uploads/typehub/custom/tatsu/0x.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:11	-0500	GET /wp-content/uploads/typehub/custom/wi/.wi.phpp HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:11	-0500	GET /wp-content/themes/seotheme/db.php?u=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	19:30:12	-0500	GET /wp-content/themes/seoplugins/db.php?u=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

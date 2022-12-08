@@ -1,4 +1,0 @@
--	17:32:07	-0600	GET / HTTP/1.1	200	22019	-	python-requests/2.26.0
--	17:32:17	-0600	GET / HTTP/1.1	200	22019	-	python-requests/2.26.0
--	17:32:42	-0600	GET / HTTP/1.1	200	22019	-	python-requests/2.26.0
--	17:33:03	-0600	GET /.env HTTP/1.1	404	21370	-	python-requests/2.26.0

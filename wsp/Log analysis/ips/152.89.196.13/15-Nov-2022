@@ -1,6 +1,0 @@
--	03:31:51	-0600	POST /wp-admin/wp-admin.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	03:49:36	-0600	POST /wp-includes/wp-includes.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	03:49:37	-0600	POST /wp-includes/wp-includes.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	03:49:38	-0600	POST /wp-includes/wp-includes.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	11:49:33	-0600	POST /wp-content/plugins/gassembly/js/js.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	20:36:49	-0600	POST /wp-content/wp-content.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0

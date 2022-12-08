@@ -1,6 +1,0 @@
--	08:44:57	-0500	GET /wp-json/wp/v2/posts HTTP/1.1	200	1788	www.jmvaladezjr.com/wp-json/wp/v2/posts	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
--	08:44:58	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75001	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
--	08:44:59	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75001	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
--	08:45:01	-0500	POST /wp-comments-post.php HTTP/1.1	302	5	https://www.jmvaladezjr.com/wp-comments-post.php	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
--	08:45:01	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75002	https://www.jmvaladezjr.com/wp-comments-post.php	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
--	08:45:02	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	75001	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16

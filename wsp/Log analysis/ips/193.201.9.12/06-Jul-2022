@@ -1,3 +1,0 @@
--	07:48:56	-0500	POST /wp-content/uploads/wp-blockdown.php?lt=503c138bd956ccbe9a63967ef1f22dac HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	23:10:55	-0500	POST /wp-content/cache.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	23:12:28	-0500	HEAD / HTTP/1.1	200	0	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36

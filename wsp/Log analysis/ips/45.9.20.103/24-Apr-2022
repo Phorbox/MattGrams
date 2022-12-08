@@ -1,3 +1,0 @@
--	05:39:35	-0500	POST /wp-includes/class-wp-page-icon.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	05:42:26	-0500	POST /assets/images/wp-plugins.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	05:42:26	-0500	GET /wp-content/plugins/apikey/apikey.php?test=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0

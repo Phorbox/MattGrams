@@ -1,6 +1,0 @@
--	07:59:50	-0600	GET / HTTP/1.1	200	24477	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
--	07:59:52	-0600	GET / HTTP/1.1	200	24477	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
--	08:00:01	-0600	GET /favicon.ico HTTP/1.1	302	5	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
--	08:00:02	-0600	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/favicon.ico	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
--	08:00:02	-0600	GET /favicon.ico HTTP/1.1	302	5	-	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
--	08:00:03	-0600	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/favicon.ico	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)

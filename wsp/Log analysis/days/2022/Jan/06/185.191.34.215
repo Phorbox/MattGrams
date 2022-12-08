@@ -1,4 +1,0 @@
--	16:36:27	-0600	POST /js.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	19:37:40	-0600	POST /cache.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	19:46:51	-0600	POST /wp-content/cache.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	20:13:18	-0600	GET /wp-admin/css/colors/light/colors.php HTTP/1.1	404	21370	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36

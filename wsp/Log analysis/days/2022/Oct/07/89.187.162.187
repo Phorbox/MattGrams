@@ -1,9 +1,0 @@
--	09:49:32	-0500	GET /wp-includes/wlwmanifest.xml HTTP/1.1	200	1045	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:33	-0500	GET /wp-login.php HTTP/1.1	200	5887	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:34	-0500	GET /?author=1 HTTP/1.1	404	69239	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:35	-0500	GET /?author=2 HTTP/1.1	404	69238	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:35	-0500	GET /wp-json/wp/v2/users/ HTTP/1.1	401	119	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:36	-0500	GET /wp-json/oembed/1.0/embed?url=https://www.jmvaladezjr.com HTTP/1.1	404	84	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:36	-0500	POST /xmlrpc.php HTTP/1.1	200	415	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:36	-0500	POST /xmlrpc.php HTTP/1.1	200	415	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
--	09:49:37	-0500	POST /xmlrpc.php HTTP/1.1	503	18979	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36

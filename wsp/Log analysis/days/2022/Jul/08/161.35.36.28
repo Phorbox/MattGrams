@@ -1,3 +1,0 @@
--	17:15:34	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:15:35	-0500	GET /wp-content/plugins/simple-membership/css/swpm.common.css HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:15:36	-0500	GET /wp-content/uploads/2022/06/ HTTP/1.1	403	186	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

@@ -1,9 +1,0 @@
--	13:56:56	-0500	GET / HTTP/1.1	200	24032	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:58:25	-0500	GET /?author=1 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:58:38	-0500	GET /?author=2 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:58:46	-0500	GET /?author=3 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:58:58	-0500	GET /?author=4 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:59:09	-0500	GET /?author=5 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:59:26	-0500	GET /?author=6 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:59:38	-0500	GET /?author=7 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
--	13:59:53	-0500	GET /?author=8 HTTP/1.1	404	23407	http://www.google.com.hk	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36

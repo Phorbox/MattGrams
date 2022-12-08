@@ -1,4 +1,0 @@
--	00:26:30	-0600	GET / HTTP/1.1	200	73290	-	Go-http-client/1.1
--	00:26:41	-0600	GET /wp-login.php HTTP/1.1	200	5187	-	Go-http-client/1.1
--	00:26:51	-0600	GET /feed HTTP/1.1	301	5	-	Go-http-client/1.1
--	00:26:56	-0600	GET /feed/ HTTP/1.1	499	0	https://www.jmvaladezjr.com/feed	Go-http-client/1.1

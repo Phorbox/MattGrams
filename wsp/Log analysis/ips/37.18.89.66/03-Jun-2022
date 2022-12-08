@@ -1,6 +1,0 @@
--	18:27:38	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
--	18:28:04	-0500	GET /wp-includes/css/dist/block-library/style.min.css?ver=5.9.2 HTTP/1.1	200	83369	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
--	18:28:04	-0500	GET /wp-content/themes/twentyseventeen/assets/css/colors-dark.css?ver=20190408 HTTP/1.1	200	18799	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
--	18:28:04	-0500	GET /wp-content/themes/twentyseventeen/assets/css/ie8.css?ver=20161202 HTTP/1.1	200	3871	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
--	18:28:04	-0500	GET /wp-content/themes/twentyseventeen/assets/css/blocks.css?ver=20190105 HTTP/1.1	200	10983	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
--	18:28:05	-0500	GET /wp-content/themes/twentyseventeen/style.css?ver=20201208 HTTP/1.1	200	88525	-	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36

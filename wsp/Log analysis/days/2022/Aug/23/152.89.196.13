@@ -1,6 +1,0 @@
--	05:06:05	-0500	POST /s_e.php HTTP/1.1	404	7744	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	06:56:01	-0500	POST /cache/index3.php HTTP/1.1	404	7744	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	20:13:05	-0500	POST /cgi-bin/menu_settings.php HTTP/1.1	404	7745	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	23:15:04	-0500	POST /.well-known/acme-challenge/menu_settings.php HTTP/1.1	404	7744	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	23:15:24	-0500	POST /assets/images/utility.php HTTP/1.1	404	7744	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	23:15:25	-0500	POST /about.php HTTP/1.1	404	7744	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0

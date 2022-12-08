@@ -1,5 +1,0 @@
--	04:23:04	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	04:23:10	-0500	GET /access.log HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	04:23:16	-0500	GET /access_log HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	04:23:23	-0500	GET /logs HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	04:23:28	-0500	GET /log HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

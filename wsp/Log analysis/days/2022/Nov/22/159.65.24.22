@@ -1,3 +1,0 @@
--	05:51:33	-0600	GET / HTTP/1.1	200	24477	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
--	05:51:44	-0600	GET /2020/10/09/hello-world/ HTTP/1.1	200	25376	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
--	05:51:50	-0600	GET /2020/10/ HTTP/1.1	499	0	-	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36

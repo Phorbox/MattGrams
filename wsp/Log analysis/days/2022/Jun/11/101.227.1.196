@@ -1,4 +1,0 @@
--	09:53:35	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
--	09:53:39	-0500	GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/1.1	200	11224	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
--	09:53:42	-0500	GET /wp-content/themes/twentyseventeen/assets/js/global.js?ver=20190121 HTTP/1.1	200	8077	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
--	09:53:43	-0500	GET /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2 HTTP/1.1	200	6045	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36

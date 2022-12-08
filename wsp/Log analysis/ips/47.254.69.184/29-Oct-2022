@@ -1,7 +1,0 @@
--	17:17:54	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:05	-0500	GET /wp-story.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:15	-0500	GET /wp-content/plugins/wpyii2/wpyii2.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:26	-0500	GET /wikindex.php?673435=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:37	-0500	GET /wp-admin/css/colors/radio.php?673435=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:48	-0500	POST /wp-admin/css/colors/radio.php HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	17:18:58	-0500	GET /wp-content/themes/classic/inc/admin.php?673435=1 HTTP/1.1	404	23407	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36

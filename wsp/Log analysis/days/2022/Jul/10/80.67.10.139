@@ -1,6 +1,0 @@
--	22:41:07	-0500	GET / HTTP/1.1	200	24032	https://jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
--	22:41:08	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25075	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
--	22:41:09	-0500	POST /wp-comments-post.php HTTP/1.1	302	5	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
--	22:41:10	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25076	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
--	22:41:11	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25076	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
--	22:45:36	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25076	-	Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv 11.0) like Gecko

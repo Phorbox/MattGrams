@@ -1,4 +1,0 @@
--	21:27:28	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (en-us) AppleWebKit/537.36 (KHTML, like Gecko; Google Domains) Chrome/101.0.4951.41 Safari/537.36
--	21:27:28	-0500	GET /wp-content/themes/twentyseventeen/style.css?ver=20201208 HTTP/1.1	200	88525	https://www.jmvaladezjr.com/	Mozilla/5.0 (en-us) AppleWebKit/537.36 (KHTML, like Gecko; Google Domains) Chrome/101.0.4951.41 Safari/537.36
--	21:27:29	-0500	GET /wp-content/themes/twentyseventeen/assets/js/global.js?ver=20190121 HTTP/1.1	200	8077	https://www.jmvaladezjr.com/	Mozilla/5.0 (en-us) AppleWebKit/537.36 (KHTML, like Gecko; Google Domains) Chrome/101.0.4951.41 Safari/537.36
--	21:27:29	-0500	GET /wp-content/themes/twentyseventeen/assets/images/header.jpg HTTP/1.1	200	114854	https://www.jmvaladezjr.com/	Mozilla/5.0 (en-us) AppleWebKit/537.36 (KHTML, like Gecko; Google Domains) Chrome/101.0.4951.41 Safari/537.36

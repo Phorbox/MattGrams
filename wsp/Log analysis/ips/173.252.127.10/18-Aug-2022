@@ -1,7 +1,0 @@
--	20:43:20	-0500	GET / HTTP/1.1	200	24032	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:20	-0500	GET /wp-includes/css/dist/block-library/style.min.css?ver=5.9.2 HTTP/1.1	200	83369	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:21	-0500	GET /wp-content/themes/twentyseventeen/assets/css/colors-dark.css?ver=20190408 HTTP/1.1	200	18799	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:21	-0500	GET /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2 HTTP/1.1	200	6045	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:21	-0500	GET /wp-includes/js/wp-emoji-release.min.js?ver=5.9.2 HTTP/1.1	200	18181	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:21	-0500	GET /favicon.ico HTTP/1.1	302	5	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
--	20:43:22	-0500	GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1	200	4119	https://www.jmvaladezjr.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36

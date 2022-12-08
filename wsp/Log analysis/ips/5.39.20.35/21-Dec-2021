@@ -1,3 +1,0 @@
--	03:10:24	-0600	GET / HTTP/1.1	200	57653	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
--	03:10:33	-0600	GET /xmlrpc.php?rsd HTTP/1.1	200	840	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
--	03:10:34	-0600	GET /category/uncategorized/ HTTP/1.1	200	57843	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36

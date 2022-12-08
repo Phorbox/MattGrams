@@ -1,2 +1,0 @@
--	10:27:41	-0600	GET / HTTP/1.1	200	65673	-	Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
--	10:27:41	-0600	GET /xmlrpc.php?action=query&prop=extracts&exintro=&explaintext=&format=json&titles= HTTP/1.1	405	53	-	Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)

@@ -1,3 +1,0 @@
--	22:12:30	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
--	22:12:32	-0500	GET /wp-login.php HTTP/1.1	200	2056	https://www.jmvaladezjr.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
--	22:12:33	-0500	GET /wp-login.php?action=lostpassword HTTP/1.1	200	1068	https://www.jmvaladezjr.com/wp-login.php	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64

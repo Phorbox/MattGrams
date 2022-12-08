@@ -1,3 +1,0 @@
--	13:47:13	-0500	GET /comments/feed/ HTTP/1.1	200	767	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
--	13:47:13	-0500	GET / HTTP/1.1	200	24032	https://www.jmvaladezjr.com/comments/feed/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
--	13:47:14	-0500	GET /comments/feed/ HTTP/1.1	200	767	https://www.jmvaladezjr.com/comments/feed/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36

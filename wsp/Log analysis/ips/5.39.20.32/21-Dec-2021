@@ -1,3 +1,0 @@
--	03:10:29	-0600	GET /wp-json/ HTTP/1.1	200	118101	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
--	03:10:31	-0600	GET / HTTP/1.1	200	57653	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
--	03:10:32	-0600	GET /wp-login.php HTTP/1.1	200	5885	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36

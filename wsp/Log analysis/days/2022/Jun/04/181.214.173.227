@@ -1,4 +1,0 @@
--	10:32:28	-0500	GET /?action=dzsap_download&link=wp-config.php HTTP/1.1	200	71622	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64)
--	10:32:30	-0500	GET /wp-admin/admin-ajax.php?action=dzsap_download&link=../wp-config.php HTTP/1.1	403	17034	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64)
--	10:32:32	-0500	GET /wp-admin/admin.php?page=supsystic-backup&tab=bupLog&download=../wp-config.php HTTP/1.1	403	17034	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64)
--	10:32:34	-0500	GET /wp-content/plugins/mail-masta/inc/campaign/count_of_send.php?pl=../../../../../wp-config.php HTTP/1.1	404	69223	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64)

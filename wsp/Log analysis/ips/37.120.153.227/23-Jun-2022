@@ -1,8 +1,0 @@
--	01:13:19	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25076	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3397.0 Safari/537.36
--	11:06:29	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25074	https://www.jmvaladezjr.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
--	11:06:30	-0500	POST /wp-comments-post.php HTTP/1.1	302	5	https://www.jmvaladezjr.com/2020/10/09/hello-world/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
--	11:06:31	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25074	https://www.jmvaladezjr.com/wp-comments-post.php	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
--	11:06:32	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25074	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
--	11:08:07	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25074	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3397.0 Safari/537.36
--	22:00:59	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25075	-	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6; zh-cn) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/7.2.0.0 Safari/537.36
--	23:02:49	-0500	GET /2020/10/09/hello-world/ HTTP/1.1	200	25075	-	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6; zh-cn) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/7.2.0.0 Safari/537.36

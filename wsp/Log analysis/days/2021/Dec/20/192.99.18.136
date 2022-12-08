@@ -1,5 +1,0 @@
--	09:42:49	-0600	GET / HTTP/1.1	200	22019	https://www.google.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
--	09:42:50	-0600	GET /2020/10/09/hello-world/ HTTP/1.1	200	23015	https://www.google.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
--	09:42:50	-0600	GET /2020/10/ HTTP/1.1	200	21993	https://www.google.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
--	09:42:52	-0600	GET /category/uncategorized/ HTTP/1.1	200	22051	https://www.google.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
--	09:42:52	-0600	GET /wp-login.php HTTP/1.1	200	2055	https://www.google.com	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36

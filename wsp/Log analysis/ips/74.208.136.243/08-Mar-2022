@@ -1,9 +1,0 @@
--	05:58:55	-0600	GET /wp-admin/css/colors/blue/ HTTP/1.1	403	186	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:56	-0600	GET /wp-admin/radio.php?sexx=sec HTTP/1.1	404	23394	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:56	-0600	GET /wp-activate.php?sexx=sec HTTP/1.1	302	5	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:57	-0600	GET /wp-login.php?action=register HTTP/1.1	302	5	https://www.jmvaladezjr.com/wp-activate.php?sexx=sec	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:57	-0600	GET /wp-login.php?registration=disabled HTTP/1.1	200	2126	https://www.jmvaladezjr.com/wp-login.php?action=register	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:57	-0600	GET /?sexx=sec HTTP/1.1	200	23422	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:58	-0600	POST /wp-content/outcms.php HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:58	-0600	POST /content/pages/home.php HTTP/1.1	404	22801	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
--	05:58:59	-0600	GET / HTTP/1.1	200	23422	-	wp_is_mobile

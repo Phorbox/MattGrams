@@ -1,5 +1,0 @@
--	18:23:03	-0500	POST /cache/accesson1.php HTTP/1.1	404	7742	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	19:27:39	-0500	GET /media-admin.phpups.php HTTP/1.1	404	7745	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
--	19:30:05	-0500	POST /components/com_tags/views/tag/tmpl/framework.php HTTP/1.1	404	7745	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
--	21:04:29	-0500	POST /accesson1.php HTTP/1.1	404	7745	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
--	23:28:24	-0500	GET /assets/colors/index3.php HTTP/1.1	404	7745	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
